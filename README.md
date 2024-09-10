@@ -36,6 +36,6 @@ I write code because I think it's cool and I love learning new things.
           
 <img align="left" alt="Rspec" width="30px" style="padding-right:14px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rspec/rspec-original.svg" />
 
-<br>
+<h2></h2>
 
 ![Carisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=carisaelam&show=prs_merged&show_icons=true&hide=prs,issues,stars&theme=flag-india&theme=transparent&hide_rank=true&custom_title=GitHub%20Stats)
