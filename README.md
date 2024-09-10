@@ -43,5 +43,6 @@ I write code because I think it's cool and I love learning new things.
 
 
 <h3>Blog Posts</h3>
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
