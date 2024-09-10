@@ -2,8 +2,19 @@
 
 **`Software Developer`** | **`Educator`**
 
+I write code because I think it's cool and I love learning new things.
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/carisa-elam-097368239">
+     <img alt="linkedin" title="Connect on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?style=for-the-badge&logoColor=white&logo=person"/></a>
 
+  <a href="https://x.com/carisa_may">
+     <img alt="x" title="Connect on X" src="https://custom-icon-badges.demolab.com/badge/-Twitter%20/%20X-black?style=for-the-badge&logoColor=white&logo=heart"/></a>
+
+  <a href="https://dev.to/carisaelam">
+     <img alt="dev_to" title="Follow Me on Dev.to" src="https://custom-icon-badges.demolab.com/badge/-DEV.to-gold?style=for-the-badge&logoColor=black&logo=pencil"/></a> 
+     
+</p>
 
 <h3>Languages and Tools</h3>
 
@@ -24,3 +35,13 @@
 <img align="left" alt="React" width="30px" style="padding-right:14px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
           
 <img align="left" alt="Rspec" width="30px" style="padding-right:14px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rspec/rspec-original.svg" />
+
+<br>
+
+<h3>Stats</h3>
+
+![Carisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=carisaelam&show=prs_merged&show_icons=true&hide=prs,issues&theme=flag-india&theme=transparent&hide_rank=true&custom_title=GitHub%20Stats)
+
+
+
+[![Carisa's Medium](https://github-readme-medium.vercel.app/?username=elammay534)](https://medium.com/@elammay534)]
