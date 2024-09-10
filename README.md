@@ -38,10 +38,4 @@ I write code because I think it's cool and I love learning new things.
 
 <br>
 
-<h3>Stats</h3>
-
-![Carisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=carisaelam&show=prs_merged&show_icons=true&hide=prs,issues&theme=flag-india&theme=transparent&hide_rank=true&custom_title=GitHub%20Stats)
-
-
-
-[![Carisa's Medium](https://github-readme-medium.vercel.app/?username=elammay534)](https://medium.com/@elammay534)]
+![Carisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=carisaelam&show=prs_merged&show_icons=true&hide=prs,issues,stars&theme=flag-india&theme=transparent&hide_rank=true&custom_title=GitHub%20Stats)
