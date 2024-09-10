@@ -54,7 +54,6 @@ I write code because I think it's cool and I love learning new things.
 <h3>Latest Blog Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Active Record Queries Cheat Sheet](https://dev.to/carisaelam/active-record-queries-cheat-sheet-3ppi)
 - [Beginner–Friendly Basics: Rails Migrations](https://dev.to/carisaelam/beginner-friendly-basics-rails-migrations-n61)
 - [Rails Active Record: Quick Start!](https://dev.to/carisaelam/active-record-quick-start-46o5)
