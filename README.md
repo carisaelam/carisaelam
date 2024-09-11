@@ -43,7 +43,7 @@ I write code because I think it's cool and I love learning new things.
 <h1></h1>
 
 <h3>Check out my app!</h3>
-<img src="assets/images/LOT-demo-910.gif" alt="LOT demo" style="width:400px; height: auto;">
+<img src="assets/images/LOT-demo-911.gif" alt="LOT demo" style="width:400px; height: auto;">
 
 <h3>Stats</h3>
 
