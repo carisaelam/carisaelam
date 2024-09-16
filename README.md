@@ -2,7 +2,7 @@
 
 **`Software Developer`** | **`Educator`**
 
-I write code because I think it's cool and I love learning new things.
+I write code and love learning new things!
 
 <h3>Get in Touch!</h3>
 <p>
