@@ -2,7 +2,7 @@
 
 **`Software Developer`** | **`Educator`**
 
-**I write code and love learning new things!** I started coding in August 2023 through self-teaching and online communities like [The Odin Project]([https://theodinproject.com](https://www.theodinproject.com)). I’ve loved figuring things out on my own, building cool projects, and learning new languages. This summer, I went all-in with Ruby on Rails, spending hundreds of hourse learning, building, and experimenting. It’s been really rewarding, and I love the challenge!
+**I write code and love learning new things!** I started coding in August 2023 through self-teaching and online communities like [The Odin Project]([https://theodinproject.com](https://www.theodinproject.com)). I’ve loved figuring things out on my own, building cool projects, and learning new languages. This summer, I went all-in with Ruby on Rails, spending hundreds of hours learning, building, and experimenting. It’s been really rewarding, and I love the challenge!
 
 <h3>Get in Touch!</h3>
 <p>
